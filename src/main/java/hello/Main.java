@@ -2,7 +2,7 @@ package hello;
 
 public class Main {
     public String sayHello() {
-        return "Hello World";
+        return "Hello World!";
     }
     public static void main(String[] args) {
         Main greeter = new Main();
