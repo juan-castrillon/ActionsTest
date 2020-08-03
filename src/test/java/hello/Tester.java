@@ -6,7 +6,7 @@ public class Tester {
     @Test
     public void GreeterTest() {
         Main greeter = new Main();
-        Assert.assertEquals("Wrong Message","Hello World", greeter.sayHello());
+        Assert.assertEquals("Wrong Message","Hello World!", greeter.sayHello());
     }
 
 }
