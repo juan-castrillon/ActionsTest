@@ -1,9 +1,7 @@
 name: Java + Gradle Testing
 
 #The action will be triggered everytime a pull request is made that includes files in the src directory (master branch)
-on:
-  pull_request:
-    branches: [ master ]
+on: pull_request
 
 jobs:
   build:
