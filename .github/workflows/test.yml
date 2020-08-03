@@ -4,7 +4,6 @@ name: Java + Gradle Testing
 on:
   pull_request:
     branches: [ master ]
-    paths: [ 'src/*' ] 
 
 jobs:
   build:
