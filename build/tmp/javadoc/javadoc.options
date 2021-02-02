@@ -1,5 +1,5 @@
 -classpath 'C:\\Users\\jpcr3\\Desktop\\Projects\\ActionsTest\\build\\classes\\java\\main;C:\\Users\\jpcr3\\Desktop\\Projects\\ActionsTest\\build\\resources\\main'
--d 'C:\\Users\\jpcr3\\Desktop\\Projects\\ActionsTest\\docs\\javadoc'
+-d 'C:\\Users\\jpcr3\\Desktop\\Projects\\ActionsTest\\docs'
 -doctitle 'Gradle_Test API'
 -notimestamp 
 -quiet 
