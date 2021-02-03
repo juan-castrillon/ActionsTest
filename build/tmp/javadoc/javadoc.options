@@ -1,7 +1,0 @@
--classpath 'C:\\Users\\jpcr3\\Desktop\\Projects\\ActionsTest\\build\\classes\\java\\main;C:\\Users\\jpcr3\\Desktop\\Projects\\ActionsTest\\build\\resources\\main'
--d 'C:\\Users\\jpcr3\\Desktop\\Projects\\ActionsTest\\docs'
--doctitle 'Gradle_Test API'
--notimestamp 
--quiet 
--windowtitle 'Gradle_Test API'
-'C:\\Users\\jpcr3\\Desktop\\Projects\\ActionsTest\\src\\main\\java\\hello\\Main.java'
