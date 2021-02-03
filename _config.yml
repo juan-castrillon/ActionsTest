@@ -1,0 +1,10 @@
+title: Documentation
+url: "https://juan-castrillon.github.io"
+#baseurl: "/self-learning-notes"
+
+remote_theme: pmarsceill/just-the-docs
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+search_enabled: true
