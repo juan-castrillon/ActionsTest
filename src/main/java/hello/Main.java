@@ -10,9 +10,17 @@ public class Main {
         return "Hello World!";
     }
 
+    /**
+     * Says goodbye in the console
+     */
+    public void sayGoodbye() {
+        System.out.println("Bye!");
+    }
+
 
     public static void main(String[] args) {
         Main greeter = new Main();
         System.out.println(greeter.sayHello());
+        greeter.sayGoodbye();
     }
 }
