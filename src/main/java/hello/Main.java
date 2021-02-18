@@ -11,7 +11,7 @@ public class Main {
     }
 
     /**
-     * Says goodbye in the console
+     * Says goodbye in the console, by printing Bye
      */
     public void sayGoodbye() {
         System.out.println("Bye!");
