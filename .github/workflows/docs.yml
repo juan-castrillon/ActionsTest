@@ -41,6 +41,7 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: javadocs # The branch the action should deploy to.
-          FOLDER: docs # The folder the action should deploy.
           target-folder: docs
+          FOLDER: javadocs # The folder the action should deploy.
+
           CLEAN: true # Automatically remove deleted files from the deploy branch
